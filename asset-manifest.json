@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://manticore06.github.io/csb-qtkgpt/static/css/main.4a4d4a79.chunk.css",
+    "main.js": "https://manticore06.github.io/csb-qtkgpt/static/js/main.c1e69dc6.chunk.js",
+    "main.js.map": "https://manticore06.github.io/csb-qtkgpt/static/js/main.c1e69dc6.chunk.js.map",
+    "runtime-main.js": "https://manticore06.github.io/csb-qtkgpt/static/js/runtime-main.7bbb1309.js",
+    "runtime-main.js.map": "https://manticore06.github.io/csb-qtkgpt/static/js/runtime-main.7bbb1309.js.map",
+    "static/css/2.9b4cfae6.chunk.css": "https://manticore06.github.io/csb-qtkgpt/static/css/2.9b4cfae6.chunk.css",
+    "static/js/2.3ca3c85e.chunk.js": "https://manticore06.github.io/csb-qtkgpt/static/js/2.3ca3c85e.chunk.js",
+    "static/js/2.3ca3c85e.chunk.js.map": "https://manticore06.github.io/csb-qtkgpt/static/js/2.3ca3c85e.chunk.js.map",
+    "index.html": "https://manticore06.github.io/csb-qtkgpt/index.html",
+    "static/css/2.9b4cfae6.chunk.css.map": "https://manticore06.github.io/csb-qtkgpt/static/css/2.9b4cfae6.chunk.css.map",
+    "static/css/main.4a4d4a79.chunk.css.map": "https://manticore06.github.io/csb-qtkgpt/static/css/main.4a4d4a79.chunk.css.map",
+    "static/js/2.3ca3c85e.chunk.js.LICENSE.txt": "https://manticore06.github.io/csb-qtkgpt/static/js/2.3ca3c85e.chunk.js.LICENSE.txt",
+    "static/media/bg.79b161a5.png": "https://manticore06.github.io/csb-qtkgpt/static/media/bg.79b161a5.png",
+    "static/media/logo.45df8d75.png": "https://manticore06.github.io/csb-qtkgpt/static/media/logo.45df8d75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bbb1309.js",
+    "static/css/2.9b4cfae6.chunk.css",
+    "static/js/2.3ca3c85e.chunk.js",
+    "static/css/main.4a4d4a79.chunk.css",
+    "static/js/main.c1e69dc6.chunk.js"
+  ]
+}
